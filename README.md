@@ -23,7 +23,12 @@
   
    <tr>
     <td>2</td>
-      <td><a href="  ">  </a></td>
+      <td><a href="https://replit.com/@linltl135135/lindaliu1202#week2/factorialClass.py">Factorial Class</a></br>
+      <a href="https://replit.com/@linltl135135/lindaliu1202#week2/factors.py">Factors</a></br>
+      <a href="https://replit.com/@linltl135135/lindaliu1202#week2/fiboCall.py">Fibonacci Call</a></br>
+      <a href="https://replit.com/@linltl135135/lindaliu1202#week2/primes.py">Primes</a></br>
+         <a href="https://github.com/LindaLiu1202/lindaliu/blob/gh_page/collegeboard/5.5.md">5.5 Legal and Ethical Concerns</a></br>
+         <a href="https://github.com/LindaLiu1202/lindaliu/blob/gh_page/collegeboard/5.6.md">5.6 Safe Computing</a></td>
    </tr>
   
    <tr>
